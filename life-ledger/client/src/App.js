@@ -1,7 +1,7 @@
-import SacredSpace from "./SacredSpace";
+import ThinkSpace from "./ThinkSpace";
 
 function App() {
-  return <SacredSpace />;
+  return <ThinkSpace />;
 }
 
 export default App;
