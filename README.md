@@ -28,4 +28,12 @@ Kinda like a magic 8-ball sort of deal but the magic is the
 user connecting their ideas with the tools hinted by their journaled thoughts?
 <strong>Starting with the Journaling Space!</strong>
 
+Log 08/14/2025
+
+I haven't mad any updates in a while as I redirected my attention to learning JavaScript. I also encountered
+a great deal more new information and languages by beginning this project. It is not beneath me to 
+put myself to the grind stone to accomplish a task, but this is about learning things that I can
+apply outside of this one project. Any person can copy and paste or perform a tutorial. But how am I going to
+apply what I learned by performing the task? That's what I asked my self and took time to answer. 
+I'll return to this soon.
 
